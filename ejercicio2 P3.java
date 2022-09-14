@@ -1,5 +1,5 @@
-package ejercicio3;
-public class Ejercicio3 {
+package ejercicio2;
+public class Ejercicio2 {
     public static void main(String[] args) {
                 double dinero = 1000;
         int mes = 1;
