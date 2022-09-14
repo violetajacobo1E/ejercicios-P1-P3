@@ -1,6 +1,6 @@
-package ejercicio2p3;
+package ejercicio4;
 import java.util.Scanner;
-public class Ejercicio2p3 {
+public class Ejercicio4 {
     public static void main(String[] args) {
         Scanner objeto = new Scanner (System.in);
         int valor, conteo = 0;
